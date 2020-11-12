@@ -1,6 +1,6 @@
 ### Hi! I'm Marcelo from Explore.dev 👋 
 
-I am working on a code review product to help developers easily understand and review programs made by others. 
+I am working on a code review product to help developers easily understand and review code written by others. 
 
 I am very fortunate to be part of an awesome team of: 
 
