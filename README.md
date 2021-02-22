@@ -1,6 +1,6 @@
 ### Hi! I'm Marcelo from Explore.dev 👋 
 
-I am working [Reviewpad](https://reviewpad.com) on a code review product to help developers easily understand and review code written by others. 
+I am working on [Reviewpad](https://reviewpad.com), a code review product that helps developers easily understand and review code written by others. 
 
 I am very fortunate to be part of an awesome team of:  
 :four_leaf_clover:&nbsp;&nbsp;Fellow developers who believe [Explore.dev](https://explore.dev/) can improve the life of other developers  
