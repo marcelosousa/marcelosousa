@@ -12,4 +12,4 @@ I spend most of my time:
 :school_satchel:&nbsp;&nbsp;Learning new aspects of building a business   
 :sparkler:&nbsp;&nbsp;Writing programs that understand other programs
 
-You can reach me at `marcelo at explore dot dev`.  
+You can reach me at `marcelo at reviewpad dot com`.  
