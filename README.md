@@ -1,4 +1,4 @@
-### Hi! I'm Marcelo from Explore.dev 👋 
+### Hi! I'm Marcelo from Reviewpad 👋 
 
 I am working on [Reviewpad](https://reviewpad.com), a code review product that helps developers easily understand and review code written by others. 
 
