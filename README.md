@@ -16,6 +16,4 @@ You can reach me at `marcelo at reviewpad dot com`.
 
 ## Stats
 
-![counter](http://enhjh53jo9zumy3.m.pipedream.net.m.pipedream.net)
-
 [![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosousa&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
