@@ -1,6 +1,6 @@
 ### Hi! I'm Marcelo from Reviewpad 👋 
 
-I am working on [Reviewpad](https://reviewpad.com), a code review product that helps developers easily understand and review code written by others. 
+I am working on [Reviewpad](https://reviewpad.com), a tool to automate workflows in pull requests. 
 
 I am very fortunate to be part of an awesome team of:  
 :four_leaf_clover:&nbsp;&nbsp;Fellow developers who believe [Reviewpad](https://reviewpad.com) can improve the life of other developers  
