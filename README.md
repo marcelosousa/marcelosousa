@@ -13,7 +13,3 @@ I spend most of my time:
 :sparkler:&nbsp;&nbsp;Writing programs that understand other programs
 
 You can reach me at `marcelo at reviewpad dot com`.  
-
-## Stats
-
-[![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosousa&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
